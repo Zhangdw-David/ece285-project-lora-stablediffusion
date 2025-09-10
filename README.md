@@ -77,7 +77,7 @@ lr = 5e-5
 rank = 8
 
 ### 📉 Training Loss Curve
-*(Insert figure here)*  
+*![](figures/Picture8.png)*  
 
 ### 📈 Evaluation Metrics
 - **Fréchet Inception Distance (FID)**: *(Insert value/plot)*  
