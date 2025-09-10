@@ -83,8 +83,9 @@ rank = 8
 - **Fréchet Inception Distance (FID)**:
 
   
- FID (Base Model): 363.9052
- FID (LoRA Model): 166.5497
+ **FID (Base Model): 363.9052**
+ 
+ **FID (LoRA Model): 166.5497**
 
  
 - **Inception Score (IS)**:
