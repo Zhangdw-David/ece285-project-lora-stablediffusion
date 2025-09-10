@@ -70,11 +70,11 @@ The pipeline includes:
 
 ## 📊 Results
 ### 🔧 Hyperparameter Settings
-*(resolution = 128
+resolution = 128
 batch_size = 4
 epochs = 20
 lr = 5e-5
-rank = 8)*  
+rank = 8
 
 ### 📉 Training Loss Curve
 *(Insert figure here)*  
