@@ -47,7 +47,7 @@ The pipeline includes:
 
 - **Train/Test Split**:  
   - Training: **5,825 pairs (80%)**  
-  - Testing: **1,456 pairs (20%)**  
+  - Testing: **1,456 pairs (20%)**
 
 ---
 
@@ -83,14 +83,15 @@ rank = 8
 - **Fréchet Inception Distance (FID)**:
 
   
- **FID (Base Model): 363.9052**
+ FID (Base Model): 363.9052
  
- **FID (LoRA Model): 166.5497**
+ FID (LoRA Model): 166.5497
 
  
 - **Inception Score (IS)**:
 
 Inception Score (Base): 4.3015 ± 0.4088
+
 Inception Score (LoRA): 3.9223 ± 0.3665
 
 
