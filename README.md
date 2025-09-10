@@ -25,9 +25,22 @@ The pipeline includes:
   
 ![](figures/Picture1.png)
   
-- **Denoising U-Net Backbone**  
-- **Text Conditioning via CLIP**  
+- **Denoising U-Net Backbone**
+
+
+![](figures/Picture2.png)
+
+- **Text Conditioning via CLIP**
+
+
+![](figures/Picture3.png)
+
 - **Low-Rank Adaptation (LoRA)**  
+
+
+
+![](figures/Picture5.png)
+
 
 ---
 
