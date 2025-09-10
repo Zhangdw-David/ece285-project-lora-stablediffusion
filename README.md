@@ -85,10 +85,10 @@ rank = 8
 
 ### 🖼️ Image Comparisons
 - **Generated vs Real (128 × 128)**  
-*(Insert figure here)*  
+*![](figures/Picture9.png)*  
 
 - **Generated vs Real (512 × 512, upscaled)**  
-*(Insert figure here)*  
+*![](figures/Picture10.png)*  
 
 ---
 
