@@ -80,7 +80,7 @@ rank = 8
 *![](figures/Picture8.png)*  
 
 ### 📈 Evaluation Metrics
-- **Fréchet Inception Distance (FID)**: *(Insert value/plot)*  
+- **Fréchet Inception Distance (FID)**: *FID (Base Model): 363.9052    FID (LoRA Model): 166.5497*  
 - **Inception Score (IS)**: *(Insert value/plot)*  
 
 ### 🖼️ Image Comparisons
