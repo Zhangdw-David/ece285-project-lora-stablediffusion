@@ -21,7 +21,9 @@
 ## 🏗️ Model Architecture
 This project fine-tunes **Stable Diffusion v1.5 (SD1.5)** with LoRA.  
 The pipeline includes:  
-- **Variational Autoencoder (VAE)**  
+- **Variational Autoencoder (VAE)**
+!(figures/Picture1.png)
+  
 - **Denoising U-Net Backbone**  
 - **Text Conditioning via CLIP**  
 - **Low-Rank Adaptation (LoRA)**  
