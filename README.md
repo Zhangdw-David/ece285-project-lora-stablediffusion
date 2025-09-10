@@ -57,7 +57,7 @@ The pipeline includes:
 - Image resolution: **128 × 128**  
 - Batch size: **4**  
 - Other components kept **frozen**.  
-- Pretrained weights: [`stable-diffusion-v1-5`](https://huggingface.co/runwayml/stable-diffusion-v1-5) from Hugging Face Hub.  
+- Pretrained weights: [`stable-diffusion-v1-5`]([https://huggingface.co/runwayml/stable-diffusion-v1-5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5)) from Hugging Face Hub.  
 - Implementation: [🤗 Diffusers (v0.32.2)](https://github.com/huggingface/diffusers) and Hugging Face **LoRA training framework**.  
 
 ### Training Process
@@ -93,7 +93,7 @@ rank = 8
 ---
 
 ## 📜 References
-- [Stable Diffusion v1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5)  
+- [Stable Diffusion v1.5]([https://huggingface.co/runwayml/stable-diffusion-v1-5](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5))  
 - [🤗 Diffusers Library](https://github.com/huggingface/diffusers)  
 - [Kaggle Chest X-rays Dataset](https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university)  
 
